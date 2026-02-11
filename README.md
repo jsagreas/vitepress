@@ -1,2 +1,0 @@
-# collaboration
-demo-collaboration
